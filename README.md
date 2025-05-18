@@ -45,16 +45,25 @@
 <span>15. scipy.stats: Statistical functions and distributions</span>
 
 <h2>Basic Usage Examples</h2>
-<p>Open the <a href="#">Installation</a> file and read.</p>
+<p>Open the <a href="https://github.com/younesnoorzahi/SciPy-in-Python/blob/main/installation.py">Installation</a> file and read.</p>
 
 <h2>Example 1: Linear Algebra</h2>
-<p>Open the <a href="#">Linear Algebra</a> file and read code.</p>
+<p>Open the <a href="https://github.com/younesnoorzahi/SciPy-in-Python/blob/main/Linear%20Algebra.py">Linear Algebra</a> file and read code.</p>
 
 <h2>Example 2: Optimization</h2>
-<p>Open the <a href="#">Optimization</a> file and read code.</p>
+<p>Open the <a href="https://github.com/younesnoorzahi/SciPy-in-Python/blob/main/Optimization.py">Optimization</a> file and read code.</p>
 
 <h2>Example 3: Statistics</h2>
-<p>Open the <a href="#">Statistics</a> file and read code.</p>
+<p>Open the <a href="https://github.com/younesnoorzahi/SciPy-in-Python/blob/main/Statistics.py">Statistics</a> file and read code.</p>
 
 <h2>Example 4: Signal Processing</h2>
-<p>Open the <a href="#">Signal Processing</a> file and read code.</p>
+<p>Open the <a href="https://github.com/younesnoorzahi/SciPy-in-Python/blob/main/Signal%20Processing.py">Signal Processing</a> file and read code.</p>
+
+<h2>Advantages of SciPy</h2>
+<li>Provides efficient numerical routines as a collection of Python modules</li>
+<li>Well-documented with extensive examples</li>
+<li>Integrates well with other scientific Python libraries (NumPy, Matplotlib, Pandas)</li>
+<li>Actively maintained and updated</li>
+<li>Large community support</li>
+
+<p>SciPy is an essential tool for scientists, engineers, and data analysts working with Python for numerical computations.</p>
