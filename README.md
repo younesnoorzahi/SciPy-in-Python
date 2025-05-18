@@ -11,3 +11,50 @@
 <span>3. Open-source: Free to use with a BSD license</span>
 <br>
 <span>4. Extensive functionality: Covers many scientific computing domains</span>
+
+<h2>Main Submodules</h2>
+<p>SciPy is organized into several submodules, each focusing on a specific area of scientific computing:</p>
+<span>1. scipy.cluster: Vector quantization / K-means</span>
+<br>
+<span>2. scipy.constants: Physical and mathematical constants</span>
+<br>
+<span>3. scipy.fft: Fast Fourier Transform routines</span>
+<br>
+<span>4. scipy.integrate: Integration and ordinary differential equation solvers</span>
+<br>
+<span>5. scipy.interpolate: Interpolation and smoothing splines</span>
+<br>
+<span>6. scipy.io: Data input and output</span>
+<br>
+<span>7. scipy.linalg: Linear algebra routines</span>
+<br>
+<span>8. scipy.ndimage: N-dimensional image processing</span>
+<br>
+<span>9. scipy.odr: Orthogonal distance regression</span>
+<br>
+<span>10. scipy.optimize: Optimization and root-finding</span>
+<br>
+<span>11. scipy.signal: Signal processing</span>
+<br>
+<span>12. scipy.sparse: Sparse matrices and associated routines</span>
+<br>
+<span>13. scipy.spatial: Spatial data structures and algorithms</span>
+<br>
+<span>14. scipy.special: Special functions</span>
+<br>
+<span>15. scipy.stats: Statistical functions and distributions</span>
+
+<h2>Basic Usage Examples</h2>
+<p>Open the <a href="#">Installation</a> file and read.</p>
+
+<h2>Example 1: Linear Algebra</h2>
+<p>Open the <a href="#">Linear Algebra</a> file and read code.</p>
+
+<h2>Example 2: Optimization</h2>
+<p>Open the <a href="#">Optimization</a> file and read code.</p>
+
+<h2>Example 3: Statistics</h2>
+<p>Open the <a href="#">Statistics</a> file and read code.</p>
+
+<h2>Example 4: Signal Processing</h2>
+<p>Open the <a href="#">Signal Processing</a> file and read code.</p>
