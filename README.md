@@ -66,4 +66,6 @@
 <li>Actively maintained and updated</li>
 <li>Large community support</li>
 
+<a href="https://scipy.org/">More introduction to scipy.org</a>
+
 <p>SciPy is an essential tool for scientists, engineers, and data analysts working with Python for numerical computations.</p>
